@@ -1,0 +1,5 @@
+# เพิ่มใน pubspec.yaml แล้วรัน: flutter pub get
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
